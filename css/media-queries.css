@@ -1,0 +1,33 @@
+body {
+    margin: 10px;
+}
+@media screen and (min-width:365px) and (max-width:1192px) {
+    .alert-info {
+        display: flex;
+        border: 2px solid lightgrey;
+        background-color: lightsteelblue;
+        justify-content: center;
+        align-items: center;
+        width: 200px;
+        height: 2em;
+        font-size: 10px;
+        padding: .5em 0;
+
+    }
+    div>a {
+        text-decoration: none;
+        color: black;
+    }
+
+}
+
+
+/*a {*/
+/*    display: flex;*/
+/*    text-decoration: none;*/
+/*    visibility: visible;*/
+/*}*/
+
+
+
+
